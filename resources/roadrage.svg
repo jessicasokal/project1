@@ -1,0 +1,44 @@
+<svg viewBox = "0 0 600 800" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<rect id="background" x="0.00" y="0.00" width="600.00" height="800.00" fill="rgb(0,0,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect1" x="200.00" y="50.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect2" x="400.00" y="50.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect3" x="200.00" y="200.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect4" x="400.00" y="150.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /><animate attributeType="xml" begin="25.0ms" dur="0.0ms" attributeName="y" from="150" to="200" fill="freeze" />
+</rect>
+<rect id="rect5" x="200.00" y="350.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect6" x="400.00" y="350.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect7" x="200.00" y="500.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect7" x="400.00" y="500.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect8" x="200.00" y="650.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<rect id="rect9" x="400.00" y="650.00" width="20.00" height="50.00" fill="rgb(255,255,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /></rect>
+<polygon id="car1" points="75,-100 125,-100 125,-75 150,-75 150,-25 125,-25 125,0 75,0 75,-25 50,-25 50,-75 75,-75" fill="rgb(255,0,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /><animate attributeType="xml" begin="25.0ms" dur="475.0ms" attributeName="points" from="75,-100 125,-100 125,-75 150,-75 150,-25 125,-25 125,0 75,0 75,-25 50,-25 50,-75 75,-75" to="75,50 125,50 125,75 150,75 150,125 125,125 125,150 75,150 75,125 50,125 50,75 75,75" fill="freeze" />
+<animate attributeType="xml" begin="500.0ms" dur="500.0ms" attributeName="points" from="75,50 125,50 125,75 150,75 150,125 125,125 125,150 75,150 75,125 50,125 50,75 75,75" to="285,200 335,200 335,225 360,225 360,275 335,275 335,300 285,300 285,275 260,275 260,225 285,225" fill="freeze" />
+<animate attributeType="xml" begin="1000.0ms" dur="500.0ms" attributeName="points" from="285,200 335,200 335,225 360,225 360,275 335,275 335,300 285,300 285,275 260,275 260,225 285,225" to="75,350 125,350 125,375 150,375 150,425 125,425 125,450 75,450 75,425 50,425 50,375 75,375" fill="freeze" />
+<animate attributeType="xml" begin="1500.0ms" dur="250.0ms" attributeName="points" from="75,350 125,350 125,375 150,375 150,425 125,425 125,450 75,450 75,425 50,425 50,375 75,375" to="75,400 125,400 125,425 150,425 150,475 125,475 125,500 75,500 75,475 50,475 50,425 75,425" fill="freeze" />
+<animate attributeType="xml" begin="1750.0ms" dur="750.0ms" attributeName="points" from="75,400 125,400 125,425 150,425 150,475 125,475 125,500 75,500 75,475 50,475 50,425 75,425" to="475,600 525,600 525,625 550,625 550,675 525,675 525,700 475,700 475,675 450,675 450,625 475,625" fill="freeze" />
+<animate attributeType="xml" begin="2500.0ms" dur="500.0ms" attributeName="points" from="475,600 525,600 525,625 550,625 550,675 525,675 525,700 475,700 475,675 450,675 450,625 475,625" to="475,800 525,800 525,825 550,825 550,875 525,875 525,900 475,900 475,875 450,875 450,825 475,825" fill="freeze" />
+</polygon>
+<polygon id="car2" points="285,-100 335,-100 335,-75 360,-75 360,-25 335,-25 335,0 285,0 285,-25 260,-25 260,-75 285,-75" fill="rgb(70,130,180)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /><animate attributeType="xml" begin="250.0ms" dur="325.0ms" attributeName="points" from="285,-100 335,-100 335,-75 360,-75 360,-25 335,-25 335,0 285,0 285,-25 260,-25 260,-75 285,-75" to="285,10 335,10 335,35 360,35 360,85 335,85 335,110 285,110 285,85 260,85 260,35 285,35" fill="freeze" />
+<animate attributeType="xml" begin="1000.0ms" dur="500.0ms" attributeName="points" from="285,10 335,10 335,35 360,35 360,85 335,85 335,110 285,110 285,85 260,85 260,35 285,35" to="475,200 525,200 525,225 550,225 550,275 525,275 525,300 475,300 475,275 450,275 450,225 475,225" fill="freeze" />
+<animate attributeType="xml" begin="1500.0ms" dur="500.0ms" attributeName="points" from="475,200 525,200 525,225 550,225 550,275 525,275 525,300 475,300 475,275 450,275 450,225 475,225" to="475,400 525,400 525,425 550,425 550,475 525,475 525,500 475,500 475,475 450,475 450,425 475,425" fill="freeze" />
+<animate attributeType="xml" begin="2500.0ms" dur="625.0ms" attributeName="points" from="475,400 525,400 525,425 550,425 550,475 525,475 525,500 475,500 475,475 450,475 450,425 475,425" to="475,800 525,800 525,825 550,825 550,875 525,875 525,900 475,900 475,875 450,875 450,825 475,825" fill="freeze" />
+</polygon>
+<polygon id="car3" points="475,-100 525,-100 525,-75 550,-75 550,-25 525,-25 525,0 475,0 475,-25 450,-25 450,-75 475,-75" fill="rgb(75,0,130)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="25.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /><animate attributeType="xml" begin="25.0ms" dur="1225.0ms" attributeName="points" from="475,-100 525,-100 525,-75 550,-75 550,-25 525,-25 525,0 475,0 475,-25 450,-25 450,-75 475,-75" to="475,300 525,300 525,325 550,325 550,375 525,375 525,400 475,400 475,375 450,375 450,325 475,325" fill="freeze" />
+<animate attributeType="xml" begin="1250.0ms" dur="550.0ms" attributeName="points" from="475,300 525,300 525,325 550,325 550,375 525,375 525,400 475,400 475,375 450,375 450,325 475,325" to="285,350 335,350 335,375 360,375 360,425 335,425 335,450 285,450 285,425 260,425 260,375 285,375" fill="freeze" />
+<animate attributeType="xml" begin="2175.0ms" dur="825.0ms" attributeName="points" from="285,350 335,350 335,375 360,375 360,425 335,425 335,450 285,450 285,425 260,425 260,375 285,375" to="285,800 335,800 335,825 360,825 360,875 335,875 335,900 285,900 285,875 260,875 260,825 285,825" fill="freeze" />
+</polygon>
+</svg>

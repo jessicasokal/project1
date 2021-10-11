@@ -1,0 +1,13 @@
+<svg viewBox = "200 70 360 360" version="1.1" xmlns="http://www.w3.org/2000/svg">
+<polygon id="R" points="212,200 236,200 236,225 250,225 250,275 236,275 236,300 212,300 212,275 200,275 200,225 212,225" fill="rgb(255,0,0)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="50.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /><animate attributeType="xml" begin="500.0ms" dur="2000.0ms" attributeName="points" from="212,200 236,200 236,225 250,225 250,275 236,275 236,300 212,300 212,275 200,275 200,225 212,225" to="312,300 336,300 336,325 350,325 350,375 336,375 336,400 312,400 312,375 300,375 300,325 312,325" fill="freeze" />
+<animate attributeType="xml" begin="2550.0ms" dur="950.0ms" attributeName="points" from="312,300 336,300 336,325 350,325 350,375 336,375 336,400 312,400 312,375 300,375 300,325 312,325" to="306,300 318,300 318,325 325,325 325,375 318,375 318,400 306,400 306,375 300,375 300,325 306,325" fill="freeze" />
+<animate attributeType="xml" begin="3500.0ms" dur="1500.0ms" attributeName="points" from="306,300 318,300 318,325 325,325 325,375 318,375 318,400 306,400 306,375 300,375 300,325 306,325" to="206,200 218,200 218,225 225,225 225,275 218,275 218,300 206,300 206,275 200,275 200,225 206,225" fill="freeze" />
+</polygon>
+<ellipse id="C" cx="500.00" cy="100.00" rx="60.00" ry="30.00" fill="rgb(0,0,255)" visibility="hidden" >
+<animate attributeType="xml" begin="0.0ms" dur="300.0ms" attributeName="visibility" from="hidden" to="visible" fill="freeze" /><animate attributeType="xml" begin="1000.0ms" dur="1500.0ms" attributeName="cy" from="100" to="280" fill="freeze" />
+<animate attributeType="xml" begin="2500.0ms" dur="1000.0ms" attributeName="cy" from="280" to="400" fill="freeze" />
+<animate attributeType="xml" begin="2500.0ms" dur="1000.0ms" attributeName="fill" from="rgb(0, 0, 255)" to="rgb(0, 170, 85)" fill="freeze" />
+<animate attributeType="xml" begin="3500.0ms" dur="500.0ms" attributeName="fill" from="rgb(0, 170, 85)" to="rgb(0, 255, 0)" fill="freeze" />
+</ellipse>
+</svg>
